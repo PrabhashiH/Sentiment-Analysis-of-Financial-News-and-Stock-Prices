@@ -1,0 +1,61 @@
+{
+  "id": "6108e06b-2477-4179-91cc-4759328d9e26",
+  "content": {
+    "id": "6108e06b-2477-4179-91cc-4759328d9e26",
+    "contentType": "STORY",
+    "title": "UK unemployment reaches five-year high and wage growth continues to slow",
+    "description": "",
+    "summary": "The rate of UK unemployment rose to 5.2% in October to December, its highest point since early 2021",
+    "pubDate": "2026-02-17T07:32:18Z",
+    "displayTime": "2026-02-17T07:32:19Z",
+    "isHosted": true,
+    "bypassModal": false,
+    "previewUrl": null,
+    "thumbnail": {
+      "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/51e53510-0b49-11f1-b5a9-4abe718a999b",
+      "originalWidth": 4096,
+      "originalHeight": 2728,
+      "caption": "",
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/GkbnBEs8N3iCq6o.Efa9jQ--~B/aD0yNzI4O3c9NDA5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2026-02/51e53510-0b49-11f1-b5a9-4abe718a999b",
+          "width": 4096,
+          "height": 2728,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/HXHzuwvm30jPWpFsDYkm4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/51e53510-0b49-11f1-b5a9-4abe718a999b",
+          "width": 170,
+          "height": 128,
+          "tag": "170x128"
+        }
+      ]
+    },
+    "provider": {
+      "displayName": "Yahoo Finance UK",
+      "url": "http://uk.finance.yahoo.com/"
+    },
+    "canonicalUrl": {
+      "url": "https://uk.finance.yahoo.com/news/uk-unemployment-five-year-high-wage-growth-jobs-073218919.html",
+      "site": "finance",
+      "region": "GB",
+      "lang": "en-GB"
+    },
+    "clickThroughUrl": {
+      "url": "https://finance.yahoo.com/news/uk-unemployment-five-year-high-wage-growth-jobs-073218919.html",
+      "site": "finance",
+      "region": "US",
+      "lang": "en-US"
+    },
+    "metadata": {
+      "editorsPick": false
+    },
+    "finance": {
+      "premiumFinance": {
+        "isPremiumNews": false,
+        "isPremiumFreeNews": false
+      }
+    },
+    "storyline": null
+  }
+}
